@@ -28,8 +28,8 @@ Assets used:
 - Wheel Colliders moving while updating Wheel Visuals:
 ![image](https://user-images.githubusercontent.com/55644010/219667375-a565a431-1387-4575-bb8b-ddddfd738a57.png)
 
-- The following are the values used for wheel collider properties:
 ![image](https://user-images.githubusercontent.com/55644010/219668037-c0ab4323-cc0b-4b8f-ab4d-fcecd27e5654.png)
+- Above are the wheel collider properties.
 - The above values apply to all four of the wheels of the car. The Suspension spring value is set to as high as 60000(indicating strong spring action) in order to avoid toppling during sudden turns at high speeds and turning while braking.
 - The damper value is set to the standard value 4500 to provide a slight bounce action to the car.
 - The forward and sideways friction values are left as they are to avoid unnecessary skidding during turns.
