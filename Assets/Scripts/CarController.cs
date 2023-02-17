@@ -30,7 +30,6 @@ public class CarController : MonoBehaviour
 
     private List<WheelCollider> wheelColliders;
     private List<Transform> wheelTransforms;
-    private Rigidbody rb;
 
 
 
@@ -53,8 +52,6 @@ public class CarController : MonoBehaviour
 
     private void Awake()
     {
-        rb = GetComponent<Rigidbody>();
-        //rb.centerOfMass = GameObject.FindGameObjectWithTag("com").transform.localPosition;
         carControls = new CarControls();
         wheelColliders = new List<WheelCollider>() { frontLeftCollider, frontRightCollider, backLeftCollider, backRightCollider };
         wheelTransforms = new List<Transform>() { frontLeftTransform, frontRightTransform, backLeftTransform, backRightTransform };
