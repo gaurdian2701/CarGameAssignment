@@ -34,7 +34,14 @@ Assets used:
 - The damper value is set to the standard value 4500 to provide a slight bounce action to the car.
 - The forward and sideways friction values are left as they are to avoid unnecessary skidding during turns.
 
+
+
 **CONTROLS:**
--- UP, DOWN, LEFT, RIGHT ARROWS - MOVEMENT
--- SPACEBAR - BRAKE
--- ESC - PAUSE
+1. UP, DOWN, LEFT, RIGHT ARROWS - MOVEMENT
+2. SPACEBAR - BRAKE
+3.  ESC - PAUSE
+
+
+
+
+
