@@ -1,5 +1,6 @@
 This is the Assignment for the Vyorius Test.
-The source code can be found in: 
+The source code can be found in: Assets -> Scripts folder
+
 This Scene was created entirely using ready-made assets from the asset store.
 Assets used:
 1. ARCADE - FREE RACING CAR asset from the Unity Asset Store:
