@@ -43,6 +43,9 @@ Assets used:
 2. SPACEBAR - BRAKE
 3.  ESC - PAUSE
 
+You can play the demo here:
+https://kirangeorge.itch.io/vyorius-car
+
 
 
 
